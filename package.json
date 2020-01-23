@@ -1,0 +1,18 @@
+{
+  "name": "projetevo2",
+  "version": "1.0.0",
+  "description": "projet evolutif du cours de node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "keywords": [
+    "projetevo"
+  ],
+  "author": "epounde",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "install": "^0.13.0"
+  }
+}
